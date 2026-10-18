@@ -1,0 +1,7 @@
+{
+  "name": "ops-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": { "smoke": "node ui-smoke.mjs" },
+  "dependencies": { "playwright-core": "^1.48.0" }
+}
